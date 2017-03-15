@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  species: MyString
+  region: MyString
+  behavior: MyString
+  diet: MyString
+  image: MyString
+
+two:
+  species: MyString
+  region: MyString
+  behavior: MyString
+  diet: MyString
+  image: MyString
